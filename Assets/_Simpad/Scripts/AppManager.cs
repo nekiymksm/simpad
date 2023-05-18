@@ -1,9 +1,9 @@
-﻿using _Notepad.Scripts.Notes;
-using _Notepad.Scripts.Panels.Base;
-using _Notepad.Scripts.Save;
+﻿using _Simpad.Scripts.Notes;
+using _Simpad.Scripts.Panels.Base;
+using _Simpad.Scripts.Save;
 using UnityEngine;
 
-namespace _Notepad.Scripts
+namespace _Simpad.Scripts
 {
     public class AppManager : MonoBehaviour
     {

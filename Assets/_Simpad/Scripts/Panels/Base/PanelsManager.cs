@@ -1,8 +1,8 @@
-﻿using _Notepad.Scripts.Notes;
-using _Notepad.Scripts.Save;
+﻿using _Simpad.Scripts.Notes;
+using _Simpad.Scripts.Save;
 using UnityEngine;
 
-namespace _Notepad.Scripts.Panels.Base
+namespace _Simpad.Scripts.Panels.Base
 {
     public class PanelsManager : MonoBehaviour
     {

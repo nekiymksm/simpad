@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Notepad.Scripts.Notes
+namespace _Simpad.Scripts.Notes
 {
     public class NoteItem : MonoBehaviour
     {

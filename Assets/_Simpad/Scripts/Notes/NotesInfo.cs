@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _Notepad.Scripts.Notes
+namespace _Simpad.Scripts.Notes
 {
     [Serializable]
     public class NotesInfo

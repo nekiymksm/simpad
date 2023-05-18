@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using _Notepad.Scripts.Notes;
+using _Simpad.Scripts.Notes;
 using UnityEngine;
 
-namespace _Notepad.Scripts.Save
+namespace _Simpad.Scripts.Save
 {
     public class SaveManager
     {

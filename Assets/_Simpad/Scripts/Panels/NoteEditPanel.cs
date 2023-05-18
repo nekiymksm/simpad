@@ -1,10 +1,10 @@
-using _Notepad.Scripts.Notes;
-using _Notepad.Scripts.Panels.Base;
+using _Simpad.Scripts.Notes;
+using _Simpad.Scripts.Panels.Base;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Notepad.Scripts.Panels
+namespace _Simpad.Scripts.Panels
 {
     public class NoteEditPanel : Panel
     {

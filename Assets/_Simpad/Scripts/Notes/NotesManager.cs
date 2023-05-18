@@ -1,8 +1,8 @@
 ﻿using System;
-using _Notepad.Scripts.Save;
+using _Simpad.Scripts.Save;
 using Object = UnityEngine.Object;
 
-namespace _Notepad.Scripts.Notes
+namespace _Simpad.Scripts.Notes
 {
     public class NotesManager
     {
